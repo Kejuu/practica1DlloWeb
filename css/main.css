@@ -16,3 +16,9 @@ li a:hover{
 body{
     background: chocolate;
 }
+div p{
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
