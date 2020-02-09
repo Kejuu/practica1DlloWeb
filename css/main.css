@@ -14,26 +14,11 @@ li a:hover{
     color: blue;
 }
 body{
-    background:#FE4365;
+    background: chocolate;
 }
 div p{
     color: black;
     margin-left: 100px;
     margin-right: 100px;
     text-align: center;
-}
-.color1{
-    color:#FE4365;
-}
-.color2{
-    color:#FC9D9A;
-}
-.color3{
-    color:#F9CDAD;
-}
-.color4{
-    color:#C8C8A9;
-}
-.color5{
-    color:#83AF9B;
 }
